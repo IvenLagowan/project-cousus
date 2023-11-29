@@ -1,2 +1,2 @@
-# project-cousus
-Saya merancang sebuat situs dan saya memasukan elemen-elemen yang berkaitang dengan kursus ini.
+# project-edukasi-code-2023
+Membuat blog pribadi menggunakan "HTML, CSS &amp; JS"
